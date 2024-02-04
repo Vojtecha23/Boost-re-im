@@ -3,7 +3,7 @@ import pygame
 
 pygame.init()
 
-rozliseni_okna = (1000, 1000)
+rozliseni_okna = (800,600)
 šířka = 800
 výška = 600
 okno = pygame.display.set_mode(rozliseni_okna)
